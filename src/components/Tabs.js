@@ -10,7 +10,7 @@ function Tabs({tabs}) {
             ))}
         </ul>
 
-        <p>This is the content for {itemName}</p>
+        <p>This is the content for {itemName}.</p>
     </div>
   )
 }
